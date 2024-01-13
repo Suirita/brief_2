@@ -1,0 +1,154 @@
+body {
+    background: rgb(122, 229, 228);
+    background: linear-gradient(0deg, rgba(122, 229, 228, 1) 0%, rgba(58, 165, 164, 1) 80%);
+    background-repeat: no-repeat;
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Exo 2', sans-serif;
+    padding-bottom: 10px ;
+}
+
+div{
+    font-family: 'Exo 2', sans-serif;
+}
+
+img {
+    width: auto;
+    height: 155px;
+    float: left;
+}
+
+#about_me{
+    background-color: white;
+    width: 1000px;
+    height: 230px;
+    padding: 50px;
+    padding-bottom: 80px;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+ 
+#projects{
+    background-color: white;
+    width: 1000px;
+    height: 320px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+.project{
+    float: left;
+    padding-right: 80px;
+    
+}
+
+#work{
+    background-color:white;
+    width: 1000px;
+    height: 350px;
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+
+#educations{
+    background-color: white;
+    width: 1000px;
+    height: 210px;
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+.education{
+    float: left;
+    padding-right: 176px;
+}
+.education_text{
+    font-size: 1.3em;
+}
+
+#languages {
+    background-color: white;
+    width: 1000px;
+    height: 130px;
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+.language{
+    float: left;
+    padding-right: 207px;
+}
+.lang{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+#socials{
+    background-color: white;
+    width: 1000px;
+    height: 160px;
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+.socials_icon{
+    float: left;
+    padding-right: 173px;
+    font-size: 1.3em;
+}
+
+#contacts{
+    background-color: white;
+    width: 1000px;
+    height: 400px;
+    padding: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+.contact_box{
+    height: 40px;
+    width: 99%;
+    border-radius: 10px;
+}
+.contact_message{
+    height: 100px;
+    width: 99%;
+    border-radius: 10px;
+}
+.contact_submit{
+    color: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 30px;
+    background-color: black;
+}
